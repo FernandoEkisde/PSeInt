@@ -1,0 +1,8 @@
+Proceso guia
+	definir a, b, c Como Real;
+	
+	escribir "ingresa 2 numeros";
+	leer a, b;
+	c= a+b;
+	escribir "el resultado es: " ,c;
+FinProceso
